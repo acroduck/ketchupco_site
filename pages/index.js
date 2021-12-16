@@ -6,14 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Ketchup Co. - Studio of Sarnaa Archie</title>
+        <link rel="icon" href="/ketchupco-favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Ketchup Co." />
+        <img src="">
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Ketchup Co. is the creative studio of Sarnaa Archie.<br>
+          I tell stories.<br>
         </p>
       </main>
 
