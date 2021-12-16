@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Ketchup Co." />
-        <img src="">
+        <img src="/18B54831-41BE-4038-BB3D-8C1BFE0B99AD.png">
         <p className="description">
           Ketchup Co. is the creative studio of Sarnaa Archie.<br>
           I tell stories.<br>
